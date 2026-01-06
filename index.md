@@ -1,5 +1,5 @@
 # 1-on-1 Kit
-[English Version](index_EN.md) | [GitHub](https://github.com/stakiran/1on1-kit/settings/pages)
+[English Version](index_EN.md) | [GitHub](https://github.com/stakiran/1on1-kit)
 
 ## はじめに
 
